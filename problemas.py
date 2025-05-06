@@ -3,9 +3,9 @@ import math
 
 # 1) Establecer el modelo matemático
 # El sólido está compuesto por:
-# a) Mitad de una esfera (una semiesfera).
+# a) Una esfera 
 # b) Un cono unido a esa semiesfera.
-# Volumen total=Volumen semiesfera+Volumen del cono
+# Volumen total=Volumen esfera+Volumen del cono
 # volumen de una esfera completa es: V_esfera = 4/3(pi)(r_1)^3
 # El volumen de un cono es: V_cono = 1/3(pi)(r_2)^2(h)
 # V_total = 4/3(pi)(r_1)^3 + 1/3(pi)(r_2)^2(h)
